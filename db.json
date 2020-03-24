@@ -1,1 +1,8 @@
-
+  {
+    "isAlertOn": "true",
+    "isCrash": "true",
+    "isANR": "true",
+    "mailList": [
+      "example@test.com"
+    ]
+  }
