@@ -3,6 +3,7 @@
     "isCrash": "true",
     "isANR": "true",
     "mailList": [
-      "example@test.com"
+      "example@test.com", 
+      "example2@test.com"
     ]
   }
